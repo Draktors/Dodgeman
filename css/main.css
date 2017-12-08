@@ -98,9 +98,24 @@ textarea {
    ========================================================================== */
 
 
+h1{
+    text-align: center;
+}
+.gameField{
+    margin: 0 auto;
+    height: 800px;
+    position: relative;
+}
 
+.dodgeman{
+    width: 13%;
+    height: 100px;
+    background-color: red;
+    bottom: 0;
+    position: absolute;
+    left: 45%;
 
-
+}
 
 
 
